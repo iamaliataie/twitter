@@ -1,0 +1,34 @@
+@font-face {
+    font-family: 'Shabnam';
+    src: url("fonts/Shabnam-FD.woff") format('woff');
+}
+
+body {
+    margin: 0;
+    direction: rtl;
+    font-family: Shabnam;
+}
+
+a {
+    text-decoration: none;
+    color: unset;
+}
+
+.newTweetArea{
+    flex: 1;
+    margin-bottom: 20px;
+    outline: none;
+    overflow: auto;
+    padding: 10px;
+    border-radius: 5px;
+
+}
+.newTweetArea:focus{
+    border: 1px solid #ededed;
+}
+
+.newTweetArea:empty:before{
+    content: attr(data-placeholder);
+    color: darkgray;
+    font-size: .8rem;
+}

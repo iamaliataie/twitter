@@ -1,0 +1,79 @@
+{
+  "tweets": [
+    {
+      "sender": {
+        "name": "علی احمد عطایی",
+        "username": "iamaliataie"
+      },
+      "text": "به اولین برنامه وب با استفاده از ری اکت خوش آمدید. ما اینجا به دنبال #بهترین خروجی هستیم",
+      "like": 6
+    },
+    {
+      "sender": {
+        "name": "مجتبی عطایی",
+        "username": "mujtabaataie"
+      },
+      "text": "به اولین برنامه وب با استفاده از #ری_اکت خوش آمدید. ما اینجا به دنبال بهترین خروجی هستیم",
+      "like": 10
+    },
+    {
+      "sender": {
+        "name": "محمد رضا حیدری",
+        "username": "rezahaidary"
+      },
+      "text": "به اولین برنامه وب با استفاده از #ری_اکت خوش آمدید. ما اینجا به دنبال بهترین خروجی هستیم",
+      "like": 15
+    },
+    {
+      "sender": {
+        "name": "ثریا گل رضایی",
+        "username": "surayagulrezaie"
+      },
+      "text": "به #اولین برنامه وب با استفاده از ری اکت خوش آمدید. ما اینجا به دنبال بهترین خروجی هستیم",
+      "like": 20
+    },
+    {
+      "id": 327,
+      "sender": {
+        "name": "ثریا گل رضایی",
+        "username": "surayagulrezaie"
+      },
+      "text": "به اولین برنامه #وب با استفاده از ری اکت خوش آمدید. ما اینجا به دنبال بهترین خروجی هستیم",
+      "like": 20
+    },
+    {
+      "id": 867,
+      "sender": {
+        "name": "ثریا گل رضایی",
+        "username": "surayagulrezaie"
+      },
+      "text": "#برنامه_نویسی زیباترین مهارت دنیا است",
+      "like": 20
+    }
+  ],
+  "users": [
+    {
+      "name": "Mujtaba Ataie",
+      "username": "mujtabaataie"
+    },
+    {
+      "name": "Abolfazl Rezaie",
+      "username": "abolfazlrezaie"
+    },
+    {
+      "name": "Mohammad Reza Haidary",
+      "username": "rezahaidary"
+    },
+    {
+      "name": "SurayaGul Rezaie",
+      "username": "surayagulrezaie"
+    }
+  ],
+  "hashtags": [
+    "کرونا",
+    "برنامه_نویسی",
+    "انتخابات",
+    "طالبان",
+    "صلح"
+  ]
+}
